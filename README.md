@@ -1,4 +1,5 @@
 ## React Weather App
+This is a simple weather app built using React that allows users to search for the current weather conditions of a city. It uses the OpenWeatherMap API to fetch weather data and displays it in a user-friendly interface.
 
 ![image](https://github.com/OluwafisayoIbrahim/Weather-App-using-API/assets/78263397/4d6e6508-0238-4f59-b773-30a5c50ef07c)  ![image](https://github.com/OluwafisayoIbrahim/Weather-App-using-API/assets/78263397/a0ae624f-8ac5-453f-aaf2-57009fa1431f)  ![image](https://github.com/OluwafisayoIbrahim/Weather-App-using-API/assets/78263397/2d4866d7-bc67-456d-b090-e4706ebb3572)  ![image](https://github.com/OluwafisayoIbrahim/Weather-App-using-API/assets/78263397/b37ccd7d-6de6-49d2-a443-693cbc6b6c13)
 
